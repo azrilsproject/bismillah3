@@ -1,0 +1,20 @@
+Menjalankan Migration 	=>   php artisan migrate
+
+Menjalankan Seeder 	=>   php artisan db:seed
+
+Menjalankan Instalasi => npm install
+
+Menjalankan Aplikasi => npm run dev
+
+
+Login			=>   Hak Akses = Administrator
+                             Username : administrator
+                             Password : 123
+
+                             Hak Akses = Admin Gudang
+                             Username : admin gudang
+                             Password : 123
+
+                             Hak Akses = Kepala Gudang
+                             Username : kepala gudang
+                             Password : 123
